@@ -1,1 +1,1 @@
-![](extracted_du_an/a.png)
+![](extracted_du_an.png)
